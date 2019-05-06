@@ -24,6 +24,7 @@ Bare|0
 Fryer|0
 Jordan|1
 Jared|1
+Lasag|0
 
 ## History & Current Tagger
 
