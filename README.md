@@ -23,7 +23,7 @@ Austin|0
 Bare|0
 Fryer|0
 Jobo|1
-Jared|2
+Jared|1
 Lasag|0
 
 ## History & Current Tagger
