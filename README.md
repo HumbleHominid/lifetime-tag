@@ -22,12 +22,12 @@ Person|Score
 Austin|0
 Bare|0
 Fryer|0
-Jordan|1
-Jared|1
+Jobo|1
+Jared|2
 Lasag|0
 
 ## History & Current Tagger
 
 Tagger|Rule
 ---|---
-Jared|???
+Jobo|???
