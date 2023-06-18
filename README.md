@@ -4,8 +4,7 @@
 
 1. No breaking and entering
 1. Only one tag per visit
-    - Can tag again if the visit extends past a week
-    - Can tag back if the visit is over
+    - No tag backs
 1. Tagging gets you 1 point with additional points awarded by a 2/3 vote
 1. Rule changes can be made by a 2/3 vote
 1. Game over when someone dies lmao
